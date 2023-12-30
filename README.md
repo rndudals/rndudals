@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=rndudals&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 
 
 
