@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 </p>
 
 
+
+<img src="https://ghchart.rshah.org/33333/rndudals" />
+
+
 ![rndudals's github stats](https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals)](https://github.com/rndudals/github-readme-stats)
 
 
