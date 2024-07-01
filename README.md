@@ -26,9 +26,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
   </a>
   
-  <br>
-   <br>
-    <br>
+  <br><br><br>
 
   <h3>📝 Experience & Projects 📝</h3>
   <table>
@@ -81,7 +79,7 @@
   </table>
 
 
-<br>
+<br><br><br>
 
 <img src="https://ghchart.rshah.org/33333/rndudals" />
 
