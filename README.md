@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
   </p>
 
+
   <h3>💡 Knowledgeable Tech Stack 💡</h3>
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp; 
@@ -20,8 +21,14 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp; 
   </p>
 
+  <h3>😀 Problem Solving 😀</h3>
+  <a href="https://solved.ac/gksdnfwpwk">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
+  </a>
   
-  
+  <br>
+   <br>
+    <br>
 
   <h3>📝 Experience & Projects 📝</h3>
   <table>
@@ -74,16 +81,13 @@
   </table>
 
 
+<br>
 
 <img src="https://ghchart.rshah.org/33333/rndudals" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals" />
+<img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals" />
 
 
-
-  <a href="https://solved.ac/gksdnfwpwk">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
-  </a>
 
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
