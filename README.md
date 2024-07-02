@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp; 
   </p>
 
-  <h3>😀 Problem Solving 😀</h3>
+  <h3>(ꔷ̥̑.̮ꔷ̥̑) Problem Solving (ꔷ̥̑.̮ꔷ̥̑)</h3>
   <a href="https://solved.ac/gksdnfwpwk">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
   </a>
@@ -83,9 +83,7 @@
 
 <img src="https://ghchart.rshah.org/33333/rndudals" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals" />
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=rndudals&show_icons=true" /> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rndudals&layout=compact)
 
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
