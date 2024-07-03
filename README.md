@@ -61,17 +61,17 @@
     </thead>
     <tbody>
       <tr>
-        <td>🚐대자 프로젝트</td>
+        <td><a href="https://github.com/rndudals/Daeja-Project" target="_blank">🚐대자 프로젝트</td>
         <td>Open API를 활용한 주차 잔여석 시각화🚐</td>
         <td>2023.09 - 2023.12</td>
       </tr>
       <tr>
-        <td>🌿깃터디 프로젝트</td>
+        <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
         <td>단국대 소융대생들의 졸업 프로젝트🌿</td>
         <td>2024.01 - Present</td>
       </tr>
       <tr>
-        <td>💰절약 왕국 프로젝트</td>
+        <td><a href="https://github.com/rndudals/MSA_Project" target="_blank">💰절약 왕국 프로젝트</td>
         <td>MSA를 이용한 MZ 세대들을 위한 커뮤니티 웹 서비스💰</td>
         <td>2024.05 - 2024.06</td>
       </tr>
