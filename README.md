@@ -64,12 +64,12 @@
     <tbody>
       <tr>
         <td><a href="https://github.com/rndudals/Daeja-Project" target="_blank">🚐대자 프로젝트</td>
-        <td>Open API를 활용한 주차 잔여석 시각화🚐</td>
+        <td>Open API를 활용한 주차 잔여석 시각화 앱🚐</td>
         <td>2023.09 - 2023.12</td>
       </tr>
       <tr>
         <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
-        <td>단국대 소융대생들의 졸업 프로젝트🌿</td>
+        <td>깃허브를 이용한 알고리즘 스터디 앱🌿</td>
         <td>2024.01 - Present</td>
       </tr>
       <tr>
