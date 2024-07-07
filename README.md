@@ -2,31 +2,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
   <h3>🔥 Strong Tech Stack 🔥</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
+</p>
 
+<h3>💡 Knowledgeable Tech Stack 💡</h3>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
+  <br>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/QueryDSL-339933?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp; 
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp; 
+</p>
 
-  <h3>💡 Knowledgeable Tech Stack 💡</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp; 
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp; 
-    <br>
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp; 
-    <img src="https://img.shields.io/badge/QueryDSL-339933?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp; 
-    <br>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp; 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp; 
-  </p>
-
-  <h3>(ꔷ̥̑.̮ꔷ̥̑) Problem Solving (ꔷ̥̑.̮ꔷ̥̑)</h3>
-  <a href="https://solved.ac/gksdnfwpwk">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksdnfwpwk" />
-  </a>
   
-  <br><br><br>
+  <br><br>
 
   <h3>📝 Experience & Projects 📝</h3>
   <table>
