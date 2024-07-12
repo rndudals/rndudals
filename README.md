@@ -44,11 +44,11 @@
         <td>2019.03 - Present</td>
       </tr>
       <tr>
-        <td>삼성전자 DX부문 동계 SW 알고리즘 역량강화 특강 수료<a href="https://samsungalgorithm.com" target="_blank"></td>
+        <td><a href="https://samsungalgorithm.com" target="_blank">삼성전자 DX부문 동계 SW 알고리즘 역량강화 특강 수료</td>
         <td>2023.01 - 2023.02</td>
       </tr>
        <tr>
-        <td>네이버 부스트캠프 웹·모바일 9기<a href="https://boostcamp.connect.or.kr/program_wm.html"></td>
+        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</td>
         <td>2024.06 - Present</td>
       </tr>
     </tbody>
