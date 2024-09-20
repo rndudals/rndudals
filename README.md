@@ -48,8 +48,8 @@
         <td>2023.01 - 2023.02</td>
       </tr>
        <tr>
-        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기</td>
-        <td>2024.06 - Present</td>
+        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기 베이직, 멤버십 수료</td>
+        <td>2024.06 - 2024.08</td>
       </tr>
     </tbody>
   </table>
@@ -63,7 +63,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/rndudals/Daeja-Project" target="_blank">🚐대자 프로젝트</td>
+        <td>🚐대자 프로젝트</td>
         <td>Open API를 활용한 주차 잔여석 시각화 앱🚐</td>
         <td>2023.09 - 2023.12</td>
       </tr>
