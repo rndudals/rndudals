@@ -40,16 +40,16 @@
     </thead>
     <tbody>
       <tr>
-        <td>단국대학교 소프트웨어학과 재학</td>
-        <td>2019.03 - Present</td>
+        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기 베이직, 멤버십 수료</td>
+        <td>2024.06 - 2024.08</td>
       </tr>
       <tr>
         <td><a href="https://samsungalgorithm.com" target="_blank">삼성전자 DX부문 동계 SW 알고리즘 역량강화 특강 수료</td>
         <td>2023.01 - 2023.02</td>
       </tr>
-       <tr>
-        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기 베이직, 멤버십 수료</td>
-        <td>2024.06 - 2024.08</td>
+      <tr>
+        <td>단국대학교 소프트웨어학과 재학</td>
+        <td>2019.03 - Present</td>
       </tr>
     </tbody>
   </table>
@@ -63,19 +63,19 @@
     </thead>
     <tbody>
       <tr>
-        <td>🚐대자 프로젝트</td>
-        <td>Open API를 활용한 주차 잔여석 시각화 앱🚐</td>
-        <td>2023.09 - 2023.12</td>
+        <td><a href="https://github.com/rndudals/MSA_Project" target="_blank">💰절약 왕국 프로젝트</td>
+        <td>MSA를 이용한 MZ 세대들을 위한 커뮤니티 웹 서비스💰</td>
+        <td>2024.05 - 2024.06</td>
       </tr>
       <tr>
         <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
         <td>깃허브를 이용한 알고리즘 스터디 앱🌿</td>
-        <td>2024.01 - Present</td>
+        <td>2023.12 - Present</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/rndudals/MSA_Project" target="_blank">💰절약 왕국 프로젝트</td>
-        <td>MSA를 이용한 MZ 세대들을 위한 커뮤니티 웹 서비스💰</td>
-        <td>2024.05 - 2024.06</td>
+        <td>🚐대자 프로젝트</td>
+        <td>Open API를 활용한 주차 잔여석 시각화 앱🚐</td>
+        <td>2023.09 - 2023.12</td>
       </tr>
     </tbody>
   </table>
