@@ -62,15 +62,15 @@ PS(<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B
       </tr>
     </thead>
     <tbody>
+       <tr>
+        <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
+        <td>깃허브를 이용한 알고리즘 스터디 앱🌿</td>
+        <td>2024.01 - Present</td>
+      </tr>
       <tr>
         <td><a href="https://github.com/rndudals/MSA_Project" target="_blank">💰절약 왕국 프로젝트</td>
         <td>MSA를 이용한 MZ 세대들을 위한 커뮤니티 웹 서비스💰</td>
-        <td>2024.05 - 2024.06</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
-        <td>깃허브를 이용한 알고리즘 스터디 앱🌿</td>
-        <td>2023.12 - Present</td>
+        <td>2024.03 - 2024.06</td>
       </tr>
       <tr>
         <td>🚐대자 프로젝트</td>
