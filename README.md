@@ -40,7 +40,7 @@ PS(<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기 베이직, 멤버십 수료</td>
+        <td><a href="https://boostcamp.connect.or.kr/program_wm.html" target="_blank">네이버 부스트캠프 웹·모바일 9기 베이직, 챌린지 수료</td>
         <td>2024.06 - 2024.08</td>
       </tr>
       <tr>
@@ -65,7 +65,7 @@ PS(<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B
        <tr>
         <td><a href="https://github.com/rndudals/gitudy" target="_blank">🌿깃터디 프로젝트</td>
         <td>깃허브를 이용한 알고리즘 스터디 앱🌿</td>
-        <td>2024.01 - Present</td>
+        <td>2024.01 - 2024.10</td>
       </tr>
       <tr>
         <td><a href="https://github.com/rndudals/MSA_Project" target="_blank">💰절약 왕국 프로젝트</td>
